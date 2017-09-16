@@ -15,7 +15,7 @@
         ]
     },
     "images": {
-        "background": "https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/background%20bez%20znaku%20wodnego%20i%20kawa%C5%82ka%20wlosow%20plus%20inne%20miejsce%20pary.png"
+        "background": "https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/background%20bez%20znaku%20wodnego%20i%20kawa%C5%82ka%20wlosow%20plus%20inne%20miejsce%20pary.png"
     },
     "rules": {
         "allowAutojoin": "true",
