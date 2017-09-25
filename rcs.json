@@ -1,0 +1,59 @@
+{
+    "room": "Jak można nie lubić anime?",
+    "author": "Gameplayer8850",
+    "icon": "https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/icons.png",
+    "css": "https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/room.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": false,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#f73636",
+        "cohost": "#f73636",
+        "manager": "#f73636",
+        "bouncer": "#f73636",
+        "rdj": "#f73636",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/backgroundNaprawa.png",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+        "emote_name": null
+    },
+    "autocomplete" : {
+            "!ping": 0,
+            "!p3": 0,
+            "!rcs": 0,
+            "!uptime": 0,
+            "!discord": 0,
+            "!pogoda": 0,
+            "!gif": 0,
+            "!skip": 2,
+            "!mute": 2,
+            "!ban": 2,
+            "!ls": 2,
+            "!clearchat":3 
+    }
+}
