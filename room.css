@@ -163,3 +163,20 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+/*Mystic*/
+.id-28366137>.badge-box>i.bdg,
+#chat-messages .fromID-28366137 .bdg {
+    background-image: url("https://i.imgur.com/LMjHqc9.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-28366137 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("https://i.imgur.com/LMjHqc9.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
