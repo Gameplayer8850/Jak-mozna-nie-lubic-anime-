@@ -231,3 +231,20 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+/*Stydiaa*/
+.id-30298142>.badge-box>i.bdg,
+#chat-messages .fromID-30298142 .bdg {
+    background-image: url("http://static.ilewazy.pl/wp-content/uploads/chleb-graham-kromka-30g.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-30298142 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("http://static.ilewazy.pl/wp-content/uploads/chleb-graham-kromka-30g.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
