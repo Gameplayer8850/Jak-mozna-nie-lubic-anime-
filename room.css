@@ -235,7 +235,7 @@
     background-position: center center;
 }
 
-/*Stydiaa*/
+/*chlebek?*/
 .id-30298142>.badge-box>i.bdg,
 #chat-messages .fromID-30298142 .bdg {
     background-image: url("http://static.ilewazy.pl/wp-content/uploads/chleb-graham-kromka-30g.jpg");
@@ -298,6 +298,23 @@
 #user-rollover.id-34264340 .badge-box>i.bdg {
     border-radius: 6px;
     background-image: url("https://i.pinimg.com/originals/7f/16/ea/7f16ea37eb9b1e50ac3fb92786778dfc.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/*Amoniak*/
+.id-10542387>.badge-box>i.bdg,
+#chat-messages .fromID-10542387 .bdg {
+    background-image: url("https://cdn73.picsart.com/195085507001202.gif?r240x240");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-10542387 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("https://cdn73.picsart.com/195085507001202.gif?r240x240");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
