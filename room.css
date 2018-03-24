@@ -319,3 +319,54 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+/*Pandorianim*/
+.id-31730421>.badge-box>i.bdg,
+#chat-messages .fromID-31730421 .bdg {
+    background-image: url("https://i.imgur.com/EesQKYT.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-31730421 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("https://i.imgur.com/EesQKYT.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/*ZielonyLis*/
+.id-5933599>.badge-box>i.bdg,
+#chat-messages .fromID-5933599 .bdg {
+    background-image: url("https://i.imgur.com/nfCNVNd.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-5933599 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("https://i.imgur.com/nfCNVNd.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/*JustMonika*/
+.id-32804894>.badge-box>i.bdg,
+#chat-messages .fromID-32804894 .bdg {
+    background-image: url("https://i.imgur.com/wsclnal.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-32804894 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("https://i.imgur.com/wsclnal.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
