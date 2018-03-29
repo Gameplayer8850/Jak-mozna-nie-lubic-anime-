@@ -1,11 +1,13 @@
 #onesignal-bell-container {
     display: none;
 }
+
 /* Góra */
 .app-header,
 #app-menu,
 #plugcubed,
-#history-button {
+#history-button,
+#rs-skip-button {
     background: rgba(0, 0, 0, 0.50);
 }
 .header-panel-button.selected {
@@ -65,89 +67,8 @@
     display: none; /*ukrycie zbugowanych/brzydkich przycisków*/
 }
 
-/*Marihuana*/
-.id-28209493>.badge-box>i.bdg,
-#chat-messages .fromID-28209493 .bdg {
-    background-image: url("http://i144.photobucket.com/albums/r173/manuelito_05/th_marihuana.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-28209493 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("http://i144.photobucket.com/albums/r173/manuelito_05/th_marihuana.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*nevermore*/
-.id-8920721>.badge-box>i.bdg,
-#chat-messages .fromID-8920721 .bdg {
-    background-image: url("https://vgy.me/sWDRev.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-8920721 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://vgy.me/sWDRev.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*Kreskahe*/
-.id-16354252>.badge-box>i.bdg,
-#chat-messages .fromID-16354252 .bdg {
-    background-image: url("https://i.imgur.com/Pthht6H.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-16354252 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://i.imgur.com/Pthht6H.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*M.O.N.O*/
-.id-30882262>.badge-box>i.bdg,
-#chat-messages .fromID-30882262 .bdg {
-    background-image: url("http://pa1.narvii.com/6517/b84f19721342c3c5c66b81cb2b9cb28151bb8f6e_hq.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-30882262 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("http://pa1.narvii.com/6517/b84f19721342c3c5c66b81cb2b9cb28151bb8f6e_hq.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*LolPlayGames*/
-.id-30987783>.badge-box>i.bdg,
-#chat-messages .fromID-30987783 .bdg {
-    background-image: url("https://i.imgur.com/3WJVtqp.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-30987783 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://i.imgur.com/3WJVtqp.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
+.icon {
+    background-image: url('https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/icons.png');
 }
 
 /*Grina*/
@@ -179,125 +100,6 @@
 #user-rollover.id-28366137 .badge-box>i.bdg {
     border-radius: 6px;
     background-image: url("https://i.imgur.com/sjGtjDk.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*-linea*/
-.id-30989262>.badge-box>i.bdg,
-#chat-messages .fromID-30989262 .bdg {
-    background-image: url("https://i.imgur.com/NzrWdMg.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-30989262 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://i.imgur.com/NzrWdMg.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*DeerAono*/
-.id-31050836>.badge-box>i.bdg,
-#chat-messages .fromID-31050836 .bdg {
-    background-image: url("https://i.imgur.com/pc4cjMC.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-31050836 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://i.imgur.com/pc4cjMC.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*Stydiaa*/
-.id-30563279>.badge-box>i.bdg,
-#chat-messages .fromID-30563279 .bdg {
-    background-image: url("https://i.imgur.com/sNksZjh.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-30563279 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://i.imgur.com/sNksZjh.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*chlebek?*/
-.id-30298142>.badge-box>i.bdg,
-#chat-messages .fromID-30298142 .bdg {
-    background-image: url("http://static.ilewazy.pl/wp-content/uploads/chleb-graham-kromka-30g.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-30298142 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("http://static.ilewazy.pl/wp-content/uploads/chleb-graham-kromka-30g.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*Kuroaksan*/
-.id-31015015>.badge-box>i.bdg,
-#chat-messages .fromID-31015015 .bdg {
-    background-image: url("https://i.imgur.com/5gXLvC1.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-31015015 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://i.imgur.com/5gXLvC1.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*XothX*/
-.id-31300959>.badge-box>i.bdg,
-#chat-messages .fromID-31300959 .bdg {
-    background-image: url("https://i.imgur.com/xwqeB8e.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-31300959 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://i.imgur.com/xwqeB8e.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-/*YuzuYuzura*/
-.id-34264340>.badge-box>i.bdg,
-#chat-messages .fromID-34264340 .bdg {
-    background-image: url("https://i.pinimg.com/originals/7f/16/ea/7f16ea37eb9b1e50ac3fb92786778dfc.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-34264340 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://i.pinimg.com/originals/7f/16/ea/7f16ea37eb9b1e50ac3fb92786778dfc.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
