@@ -102,7 +102,8 @@
     background-image: url("https://i.imgur.com/sNksZjh.png");
     background-size: cover;
     background-repeat: no-repeat;
-  
+    background-position: center center;
+}
 
 /*Mystic*/
 .id-28366137>.badge-box>i.bdg,
