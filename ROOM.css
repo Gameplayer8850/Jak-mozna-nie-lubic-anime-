@@ -220,3 +220,18 @@
     background-repeat: no-repeat;	
     background-position: center center;	
 }
+/*Sexy Alien*/
+.id-142388363>.badge-box>i.bdg,
+#chat-messages .fromID-142388363 .bdg {	
+    background-image: url("https://media.giphy.com/media/l3977adOpN1GbQNUs/giphy.gif");	
+    background-size: cover;	
+    background-repeat: no-repeat;	
+    background-position: center center;	
+}	
+#user-rollover.id-14238836 .badge-box>i.bdg {	
+    border-radius: 6px;	
+    background-image: url("https://media.giphy.com/media/l3977adOpN1GbQNUs/giphy.gif");	
+    background-size: cover;	
+    background-repeat: no-repeat;	
+    background-position: center center;	
+}
