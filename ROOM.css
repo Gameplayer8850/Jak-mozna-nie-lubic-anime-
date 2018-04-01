@@ -142,7 +142,7 @@
 /*Pandorianim*/
 .id-31730421>.badge-box>i.bdg,
 #chat-messages .fromID-31730421 .bdg {
-    background-image: url("https://i.imgur.com/EesQKYT.png");
+    background-image: url("https://78.media.tumblr.com/907ed3cbb92ffd260afb4413866fa336/tumblr_oxrqe3LRON1wp4nx2o1_540.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -150,7 +150,7 @@
 
 #user-rollover.id-31730421 .badge-box>i.bdg {
     border-radius: 6px;
-    background-image: url("https://i.imgur.com/EesQKYT.png");
+    background-image: url("https://78.media.tumblr.com/907ed3cbb92ffd260afb4413866fa336/tumblr_oxrqe3LRON1wp4nx2o1_540.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -309,4 +309,20 @@
     content: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/heart.png") !important;
     float: left;
     margin: 0px 3px 0px 3px;
+}
+/*Hundjäger*/
+.id-14592706>.badge-box>i.bdg,
+#chat-messages .fromID-14592706 .bdg {
+    background-image: url("https://i.imgur.com/PoQT2SM.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-14592706 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("https://i.imgur.com/PoQT2SM.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
