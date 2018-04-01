@@ -235,3 +235,78 @@
     background-repeat: no-repeat;	
     background-position: center center;	
 }
+
+/* Mikєy */
+[data-cid^="6425281-"] .msg .from .icon-chat-subscriber,
+#user-lists .list.room .id-6425281 .icon-chat-subscriber,
+#user-rollover.id-6425281 .meta.subscriber .status i {
+    background: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/ranks-special/Mikey/sub.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+#user-rollover.id-6425281 .meta.subscriber .status span {
+    color: #e74c3c !important;
+}
+
+#user-rollover.id-6425281 .subscriber .thumb {
+    border-color: #e74c3c !important;
+}
+
+/* - gяєєиα -*/
+[data-cid^="10607990-"] .msg .from .icon-chat-subscriber,
+#user-lists .list.room .id-10607990 .icon-chat-subscriber,
+#user-rollover.id-10607990 .meta.subscriber .status i {
+    background: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/ranks-special/Greena/sub.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+[data-cid^="10607990-"] .msg .from .icon-chat-manager,
+#user-lists .list.room .id-10607990 .icon-chat-manager,
+#user-rollover.id-10607990 .info .role i.icon-chat-manager {
+    background: url("https://vgy.me/tQrevI.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+[data-cid^="10607990-"] .msg .from .icon-chat-promoter,
+#user-lists .list.room .id-10607990 .icon-chat-promoter,
+#user-rollover.id-10607990 .info .role i.icon-chat-promoter {
+    background: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/ranks-special/Greena/promotor.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+[data-cid^="10607990-"] .msg .from .icon-chat-promoter + span,
+#user-lists .list.room .id-10607990 .icon-chat-promoter + span,
+#user-rollover.id-10607990 .info .role i.icon-chat-promoter + span,
+[data-cid^="10607990-"] .msg .from .icon-chat-manager + span,
+#user-lists .list.room .id-10607990 .icon-chat-manager + span,
+#user-rollover.id-10607990 .info .role i.icon-chat-manager + span {
+    color: #7DFF7C !important;
+}
+
+#chat [data-cid^="10607990-"] span.un.clickable,
+/*.id-10607990 span.un.clickable,*/
+#user-lists .list.room .id-10607990 .name,
+#user-lists .list.room .is-staff.id-10607990 .name,
+#user-lists .list.room .is-dj.id-10607990 .name,
+#user-lists .list.room .is-subscriber.id-10607990 .name,
+#user-lists .list.room [class*='role'].id-10607990 .name,
+#chat .msg .text .id-10607990,
+#chat .msg .text .name.id-10607990,
+#chat .msg .text .name.id-10607990 .name,
+#user-rollover.id-10607990 .username,
+#user-rollover.id-10607990 .meta.subscriber .status span,
+#user-rollover.id-10607990.is-staff .info .role span {
+    color: #7DFF7C !important;
+}
+
+#user-rollover.id-10607990 .subscriber .thumb,
+#user-rollover.id-10607990.is-staff .thumb {
+    border-color: #7DFF7C !important;
+}
+
+.fromID-10607990 .from .un.clickable:before,
+.id-10607990 > .msg > .from:before { 
+    content: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/heart.png") !important;
+    float: left;
+    margin: 0px 3px 0px 3px;
+}
