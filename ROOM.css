@@ -224,7 +224,7 @@
 /*Hundjäger*/
 .id-14592706>.badge-box>i.bdg,
 #chat-messages .fromID-14592706 .bdg {
-    background-image: url("https://i.imgur.com/PoQT2SM.gif");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/hundjager.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -232,7 +232,7 @@
 
 #user-rollover.id-14592706 .badge-box>i.bdg {
     border-radius: 6px;
-    background-image: url("https://i.imgur.com/PoQT2SM.gif");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/hundjager.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -242,7 +242,7 @@
 [data-cid^="6425281-"] .msg .from .icon-chat-subscriber,
 #user-lists .list.room .id-6425281 .icon-chat-subscriber,
 #user-rollover.id-6425281 .meta.subscriber .status i {
-    background: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/ranks-special/Mikey/sub.png") !important;
+    background: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/ranks/mike_sub.png") !important;
     background-repeat: no-repeat !important;
 }
 
@@ -258,21 +258,21 @@
 [data-cid^="10607990-"] .msg .from .icon-chat-subscriber,
 #user-lists .list.room .id-10607990 .icon-chat-subscriber,
 #user-rollover.id-10607990 .meta.subscriber .status i {
-    background: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/ranks-special/Greena/sub.png") !important;
+    background: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/ranks/grina_sub.png") !important;
     background-repeat: no-repeat !important;
 }
 
 [data-cid^="10607990-"] .msg .from .icon-chat-manager,
 #user-lists .list.room .id-10607990 .icon-chat-manager,
 #user-rollover.id-10607990 .info .role i.icon-chat-manager {
-    background: url("https://vgy.me/tQrevI.png") !important;
+    background: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/ranks/grina_manager.png") !important;
     background-repeat: no-repeat !important;
 }
 
 [data-cid^="10607990-"] .msg .from .icon-chat-promoter,
 #user-lists .list.room .id-10607990 .icon-chat-promoter,
 #user-rollover.id-10607990 .info .role i.icon-chat-promoter {
-    background: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/ranks-special/Greena/promotor.png") !important;
+    background: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/ranks/grina_promotor.png") !important;
     background-repeat: no-repeat !important;
 }
 
