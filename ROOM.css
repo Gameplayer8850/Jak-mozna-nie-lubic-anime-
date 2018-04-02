@@ -68,13 +68,13 @@
 }
 
 .icon {
-    background-image: url('https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/icons.png');
+    background-image: url('https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/icons.png');
 }
 
 /*- gяєєиα -*/
 .id-10607990>.badge-box>i.bdg,
 #chat-messages .fromID-10607990 .bdg {
-    background-image: url("https://i.imgur.com/0AcqUqB.gif");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/grina.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -82,7 +82,7 @@
 
 #user-rollover.id-10607990 .badge-box>i.bdg {
     border-radius: 6px;
-    background-image: url("https://i.imgur.com/0AcqUqB.gif");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/grina.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -91,7 +91,7 @@
 /*- gяєєиα - | Mobile*/
 .id-30563279>.badge-box>i.bdg,
 #chat-messages .fromID-30563279 .bdg {
-    background-image: url("https://i.imgur.com/sNksZjh.png");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/grina_mobile.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -99,7 +99,7 @@
 
 #user-rollover.id-30563279 .badge-box>i.bdg {
     border-radius: 6px;
-    background-image: url("https://i.imgur.com/sNksZjh.png");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/grina_mobile.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -108,7 +108,7 @@
 /*Mystic*/
 .id-28366137>.badge-box>i.bdg,
 #chat-messages .fromID-28366137 .bdg {
-    background-image: url("https://i.imgur.com/sjGtjDk.png");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/mystic.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -116,7 +116,7 @@
 
 #user-rollover.id-28366137 .badge-box>i.bdg {
     border-radius: 6px;
-    background-image: url("https://i.imgur.com/sjGtjDk.png");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/mystic.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -125,7 +125,7 @@
 /*Amoniak*/
 .id-10542387>.badge-box>i.bdg,
 #chat-messages .fromID-10542387 .bdg {
-    background-image: url("https://cdn73.picsart.com/195085507001202.gif?r240x240");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/amoniak.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -133,7 +133,7 @@
 
 #user-rollover.id-10542387 .badge-box>i.bdg {
     border-radius: 6px;
-    background-image: url("https://cdn73.picsart.com/195085507001202.gif?r240x240");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/amoniak.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -142,7 +142,7 @@
 /*Pandorianim*/
 .id-31730421>.badge-box>i.bdg,
 #chat-messages .fromID-31730421 .bdg {
-    background-image: url("https://78.media.tumblr.com/907ed3cbb92ffd260afb4413866fa336/tumblr_oxrqe3LRON1wp4nx2o1_540.gif");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/pandorianim.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -150,7 +150,7 @@
 
 #user-rollover.id-31730421 .badge-box>i.bdg {
     border-radius: 6px;
-    background-image: url("https://78.media.tumblr.com/907ed3cbb92ffd260afb4413866fa336/tumblr_oxrqe3LRON1wp4nx2o1_540.gif");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/pandorianim.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -159,7 +159,7 @@
 /*ZielonyLis*/
 .id-5933599>.badge-box>i.bdg,
 #chat-messages .fromID-5933599 .bdg {
-    background-image: url("https://i.imgur.com/nfCNVNd.png");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/zielony_lis.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -167,32 +167,18 @@
 
 #user-rollover.id-5933599 .badge-box>i.bdg {
     border-radius: 6px;
-    background-image: url("https://i.imgur.com/nfCNVNd.png");
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/zielony_lis.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 /*JustMonika*/
-.id-32804894>.badge-box>i.bdg,
-#chat-messages .fromID-32804894 .bdg {
-    background-image: url("https://i.imgur.com/Z5A4WFI.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top;
-}
-
-#user-rollover.id-32804894 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://i.imgur.com/Z5A4WFI.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top;
-}
+/* nie no tego raka nie dodam */
 /*XothX*/	
 .id-31300959>.badge-box>i.bdg,	
 #chat-messages .fromID-31300959 .bdg {	
-    background-image: url("https://i.imgur.com/xwqeB8e.gif");	
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/xoth.gif");	
     background-size: cover;	
     background-repeat: no-repeat;	
     background-position: center center;	
@@ -200,7 +186,7 @@
 	
 #user-rollover.id-31300959 .badge-box>i.bdg {	
     border-radius: 6px;	
-    background-image: url("https://i.imgur.com/xwqeB8e.gif");	
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/xoth.gif");	
     background-size: cover;	
     background-repeat: no-repeat;	
     background-position: center center;	
@@ -208,14 +194,14 @@
 /*Marihuana*/
 .id-28209493>.badge-box>i.bdg,
 #chat-messages .fromID-28209493 .bdg {	
-    background-image: url("http://i144.photobucket.com/albums/r173/manuelito_05/th_marihuana.gif");	
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/marihuana.gif");	
     background-size: cover;	
     background-repeat: no-repeat;	
     background-position: center center;	
 }	
 #user-rollover.id-28209493 .badge-box>i.bdg {	
     border-radius: 6px;	
-    background-image: url("http://i144.photobucket.com/albums/r173/manuelito_05/th_marihuana.gif");	
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/marihuana.gif");	
     background-size: cover;	
     background-repeat: no-repeat;	
     background-position: center center;	
@@ -223,17 +209,33 @@
 /*Sexy Alien*/
 .id-14238836>.badge-box>i.bdg,
 #chat-messages .fromID-14238836 .bdg {	
-    background-image: url("https://i.giphy.com/media/l3977adOpN1GbQNUs/giphy.webp");	
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/sexy_alien.gif");	
     background-size: cover;	
     background-repeat: no-repeat;	
     background-position: center center;	
 }	
 #user-rollover.id-14238836 .badge-box>i.bdg {	
     border-radius: 6px;	
-    background-image: url("https://i.giphy.com/media/l3977adOpN1GbQNUs/giphy.webp");	
+    background-image: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/sexy_alien.gif");	
     background-size: cover;	
     background-repeat: no-repeat;	
     background-position: center center;	
+}
+/*Hundjäger*/
+.id-14592706>.badge-box>i.bdg,
+#chat-messages .fromID-14592706 .bdg {
+    background-image: url("https://i.imgur.com/PoQT2SM.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-14592706 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("https://i.imgur.com/PoQT2SM.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 /* Mikєy */
@@ -306,23 +308,7 @@
 
 .fromID-10607990 .from .un.clickable:before,
 .id-10607990 > .msg > .from:before { 
-    content: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/heart.png") !important;
+    content: url("https://rawgit.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/heart.png") !important;
     float: left;
     margin: 0px 3px 0px 3px;
-}
-/*Hundjäger*/
-.id-14592706>.badge-box>i.bdg,
-#chat-messages .fromID-14592706 .bdg {
-    background-image: url("https://i.imgur.com/PoQT2SM.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-#user-rollover.id-14592706 .badge-box>i.bdg {
-    border-radius: 6px;
-    background-image: url("https://i.imgur.com/PoQT2SM.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
 }
