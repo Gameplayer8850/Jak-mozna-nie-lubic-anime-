@@ -140,7 +140,21 @@
     background-position: center center;
 }
 /*JustMonika*/
-/* nie no tego raka nie dodam */
+.id-32804894>.badge-box>i.bdg,
+#chat-messages .fromID-32804894 .bdg {
+    background-image: url("https://i.imgur.com/Z5A4WFI.gif");	
+    background-size: cover;	
+    background-repeat: no-repeat;	
+    background-position: top;	
+}	
+	
+#user-rollover.id-32804894 .badge-box>i.bdg {	
+    border-radius: 6px;	
+    background-image: url("https://i.imgur.com/Z5A4WFI.gif");	
+    background-size: cover;	
+    background-repeat: no-repeat;	
+    background-position: top;	
+}
 /*XothX*/
 .id-31300959>.badge-box>i.bdg, #chat-messages .fromID-31300959 .bdg {
     background-image: url("https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/xoth.gif");
