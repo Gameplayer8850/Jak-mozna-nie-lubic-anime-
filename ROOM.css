@@ -239,7 +239,6 @@
     color: #7DFF7C !important;
 }
 #chat [data-cid^="10607990-"] span.un.clickable, 
-/*.id-10607990 span.un.clickable,*/
 #user-lists .list.room .id-10607990 .name, #user-lists .list.room .is-staff.id-10607990 .name, #user-lists .list.room .is-dj.id-10607990 .name, #user-lists .list.room .is-subscriber.id-10607990 .name, #user-lists .list.room [class*='role'].id-10607990 .name, #chat .msg .text .id-10607990, #chat .msg .text .name.id-10607990, #chat .msg .text .name.id-10607990 .name, #user-rollover.id-10607990 .username, #user-rollover.id-10607990 .meta.subscriber .status span, #user-rollover.id-10607990.is-staff .info .role span {
     color: #7DFF7C !important;
 }
@@ -256,4 +255,8 @@
 [data-cid^="28366137-"] .msg .from .icon-chat-promoter, #user-lists .list.room .id-28366137 .icon-chat-promoter, #user-rollover.id-28366137 .info .role i.icon-chat-promoter {
     background: url("https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/ranks/mystic_promotor.png") !important;
     background-repeat: no-repeat !important;
+}
+#chat [data-cid^="28366137-"] span.un.clickable, 
+#user-lists .list.room .id-28366137 .name, #user-lists .list.room .is-staff.id-28366137 .name, #user-lists .list.room .is-dj.id-28366137 .name, #user-lists .list.room .is-subscriber.id-28366137 .name, #user-lists .list.room [class*='role'].id-28366137 .name, #chat .msg .text .id-28366137, #chat .msg .text .name.id-28366137, #chat .msg .text .name.id-28366137 .name, #user-rollover.id-28366137 .username, #user-rollover.id-28366137 .meta.subscriber .status span, #user-rollover.id-28366137.is-staff .info .role span {
+    color: #e64c3b !important;
 }
