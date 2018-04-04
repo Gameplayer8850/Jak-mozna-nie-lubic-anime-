@@ -237,3 +237,9 @@
     float: left;
     margin: 0px 3px 0px 3px;
 }
+
+/* MysticJump */
+[data-cid^="28366137-"] .msg .from .icon-chat-promoter, #user-lists .list.room .id-28366137 .icon-chat-promoter, #user-rollover.id-28366137 .info .role i.icon-chat-promoter {
+    background: url("https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/ranks/mystic_promotor.png") !important;
+    background-repeat: no-repeat !important;
+}
