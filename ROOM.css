@@ -263,3 +263,17 @@
     background: url("https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/ranks/mystic_promotor.png") !important;
     background-repeat: no-repeat !important;
 }
+/*Mono*/
+.id-30882262>.badge-box>i.bdg, #chat-messages .fromID-30882262 .bdg {
+    background-image: url("https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/mono.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#user-rollover.id-30882262 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/mono.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
