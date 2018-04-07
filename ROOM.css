@@ -277,3 +277,17 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+/*Towarzysz*/
+.id-32519556>.badge-box>i.bdg, #chat-messages .fromID-32519556 .bdg {
+    background-image: url("https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/towar.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#user-rollover.id-32519556 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/badges/towar.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
