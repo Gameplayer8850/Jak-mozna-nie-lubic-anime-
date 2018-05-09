@@ -48,10 +48,10 @@
     top: -6px;
 }
 /* Poprawki i usprawnienia */
-.social-menu .signup, #app-menu .android-badge, #app-menu .iphone-badge {
-    display: none;
-   /*ukrycie zbugowanych/brzydkich przycisków*/
+#chat-messages .from.plot.has-sub .icon.icon-chat-plot, #chat-messages .from.promoter.has-sub .icon.icon-chat-promoter, #chat-messages .from.sitemod.has-sub .icon.icon-chat-sitemod {
+    margin-right: 3px !important;
 }
+
 .icon {
     background-image: url('https://raw.githubusercontent.com/Gameplayer8850/Jak-mozna-nie-lubic-anime-/master/img/icons.png');
 }
